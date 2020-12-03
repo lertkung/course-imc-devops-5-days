@@ -1,3 +1,4 @@
+https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html
 # Elasticsearch cluster with [Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
 
 ## Simple cluster (Default roles in 3 nodes)
